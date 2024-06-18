@@ -15,12 +15,14 @@ input field
     }
     body{
       background-color: #333;
+
     }
     .main-container{
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 100vh;
+      height: 100%;
+      padding: 50px 0px 0px 0px;
     }
     .center-container{
       height: 500px;
